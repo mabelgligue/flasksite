@@ -1,0 +1,101 @@
+ <DOCTYPE HTML>
+<html lang ="en">
+<head>
+<title> WELCOME TO ICT CLASS 2</title>
+<meta charset ="utf-8"/>
+<link href="fun.png" ref="icon"type=png image/ico">
+<body>
+<!--text formatting-->
+<br>this is a paragraph<br/>
+this is another paragraph
+<pre>dep't of computer science
+HND COMPUTER SCIENCE
+HND ICT
+</pre>
+<h1> <span style="color:blue">HO TECHNICAL UNIVERSITY</span><h1>
+<h1>DEPARTMENT OF COMPUTER SCIENCE<h1>
+<h4> HND ICT<h4>
+<em> saying of the wise -prov. 22: 1-4</em><p/>
+<p> saying of the wise- prov 22:1-4</mark></p>
+<code> vatAmount= amount*0.125;</code></p>
+<p>the<b> pythagorean theorem </b>is often expressed as the following equation:</p>
+<p><var>a<sup>2</sup></var>+
+<var>b<sup>2</sup></var>=
+<var>c<sup>2</sup></var></p>
+<hr/>
+<p> almost every developer's favourite molecule is 
+c<sub>8</sub>h<sub>10</sub>n<sub>4</sub>0<sub>2</sub>,also known as "caffeine."<p/>
+<p> something &nbsp; really &nbsp;&nbsp;&nbsp cool;--</p>
+<p>the <abbr title="economic community of west african states"> <span style="color:red">ECOWAS</span></abbr> is a regional oranisation which was establised on 28 may 1975.</p.>
+<p> can i get this <acronym title="as soon as possilble">ASAP</acronym>?</p>
+<adress>
+HO TCHNICAL UNIVERSITY<br/>
+ADRESS: POST OFFICE BOX HP 217</p>
+<section>
+<h1> GROUPING ELEMENTS</h1>
+<div align="left" style='background-color:red;width:100%;height:100px;'> <b>this is bold text</b><br>
+<i> this is italics text</i></div><br>
+<div align="center"style='background-color:yellow;width:100%,height:100px;'> <b>this is another bold text</b><br>
+<i>this is another italics text</i></div><br>
+<div align="right"style='background-color:green;width:100%,height:100px;'> <b> this is the last bold text</b><br>
+<i>this is the last italic text</i></div>
+<h1> faculty of applied science and technology</h1><ul style ="list-style-type:square">
+<li>Depratment of computer science<li>
+<li>department of hospitality and tourism management<li>
+<li>department of food science and technology</li></ul>
+<h1>schools and faculties in HTU </h1><ol>
+<ol type ="A">
+<li>school of graduate studies<li>
+<li>faculty of applied sciences and technology</li></ol>
+<dl>
+<dt> browsers are programs that provide access to web resources . eg is firefox</dd>
+<dt>HTML></dt>
+<dd>HTML is the standardmarkup language for describing how web documents should be represented</dd>
+</dl>
+<h1> nested list</h1>
+<h2> Faculty of Applied science and technology</h2>
+    <ol>
+        <li>Department of computer science </li>
+   <ul>
+   <ol type ="A">
+      <li>HND Computer Science</li>
+      <li>HND ICT</li>
+</ul>
+    
+     <li>Department of Hospitality and tourism managemnet</li>
+<ul>
+<ol type="A">
+     <li>HND Hotel,Catering,Institution managemnet</li>
+</ul>
+</ol>
+<table border ="1px">
+<caption> Exercise </caption>
+<tr>
+   <th>ID</th>
+   <th> LAST NAME</th>
+   <th>SUBJECT</th>
+   </tr>
+   </table>
+   <table width ="35%" border="4px">
+   <tr align ="left">
+   <td> 1011</td>
+   <td>ANNAN </td>
+   <td> Data structre </td>
+   </tr>
+   </table>
+   <table width="90" border="4px">
+   <colgroup>
+   <col span ="2" style="background-color:red">
+   <col style ="background-color:yellow">
+   </colgroup>
+   <tr>
+     <th> ISBN</th>
+	 <th> TITLE</th>
+	 <th>PRICE</th>
+	 </tr>
+	 <tr>
+	    <th>3476896</td>
+		<th> MY FRIST HTML</td>
+		<td>$53</td>
+		</tr>
+		</table>
